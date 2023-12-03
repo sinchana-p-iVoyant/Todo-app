@@ -1,0 +1,20 @@
+.input-container{
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: row;
+}
+
+.input-container .input{
+    margin-right: 9px;
+}
+
+.add-btn{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 3, 45);
+    padding: 2px 6px;
+}
+
+.add-btn:hover{
+    background-color:  rgb(255, 255, 255);
+    color: rgb(63, 63, 63);
+}
